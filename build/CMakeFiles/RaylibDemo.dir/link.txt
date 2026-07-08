@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic -Wl,--dependency-file=CMakeFiles/RaylibDemo.dir/link.d CMakeFiles/RaylibDemo.dir/src/main.c.o -o RaylibDemo  /usr/lib64/libraylib.so external/box2d/src/libbox2d.a -L/usr/lib64 -lraylib -lm
