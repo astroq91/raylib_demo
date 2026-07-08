@@ -1,0 +1,36 @@
+CMakeFiles/RaylibDemo.dir/src/main.c.o: \
+ /home/c23jll/dev/c/raylib_demo/src/main.c /usr/include/stdc-predef.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/box2d.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/base.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stdbool.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/time64.h /usr/include/bits/wchar.h \
+ /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/bits/stdint-least.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/collision.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/math_functions.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h /usr/include/math.h \
+ /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
+ /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
+ /usr/include/bits/fp-fast.h /usr/include/bits/mathcalls-macros.h \
+ /usr/include/bits/mathcalls-helper-functions.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
+ /usr/include/bits/iscanonical.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/id.h \
+ /home/c23jll/dev/c/raylib_demo/external/box2d/src/../include/box2d/types.h \
+ /usr/include/raylib.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stdarg.h \
+ /usr/include/stdio.h /usr/include/bits/types/__fpos_t.h \
+ /usr/include/bits/types/__mbstate_t.h \
+ /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
+ /usr/include/bits/stdio_lim.h

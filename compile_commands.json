@@ -1,0 +1,230 @@
+[
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/aabb.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/aabb.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/aabb.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/aabb.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/arena_allocator.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/arena_allocator.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/arena_allocator.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/arena_allocator.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/bitset.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/bitset.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/bitset.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/bitset.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/body.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/body.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/body.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/body.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/broad_phase.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/broad_phase.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/broad_phase.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/broad_phase.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/constraint_graph.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/constraint_graph.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/constraint_graph.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/constraint_graph.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/contact.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/contact.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/contact.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/contact.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/contact_solver.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/contact_solver.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/contact_solver.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/contact_solver.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/core.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/core.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/core.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/core.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/distance.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/distance.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/distance.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/distance.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/distance_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/distance_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/distance_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/distance_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/dynamic_tree.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/dynamic_tree.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/dynamic_tree.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/dynamic_tree.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/geometry.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/geometry.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/geometry.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/geometry.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/hull.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/hull.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/hull.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/hull.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/id_pool.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/id_pool.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/id_pool.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/id_pool.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/island.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/island.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/island.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/island.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/manifold.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/manifold.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/manifold.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/manifold.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/math_functions.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/math_functions.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/math_functions.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/math_functions.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/motor_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/motor_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/motor_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/motor_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/mover.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/mover.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/mover.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/mover.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/parallel_for.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/parallel_for.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/parallel_for.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/parallel_for.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/physics_world.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/physics_world.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/physics_world.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/physics_world.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/prismatic_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/prismatic_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/prismatic_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/prismatic_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/recording.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/recording.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/recording.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/recording.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/recording_replay.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/recording_replay.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/recording_replay.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/recording_replay.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/revolute_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/revolute_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/revolute_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/revolute_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/scheduler.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/scheduler.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/scheduler.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/scheduler.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/sensor.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/sensor.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/sensor.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/sensor.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/shape.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/shape.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/shape.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/shape.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/solver.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/solver.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/solver.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/solver.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/solver_set.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/solver_set.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/solver_set.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/solver_set.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/table.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/table.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/table.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/table.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/timer.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/timer.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/timer.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/timer.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/types.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/types.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/types.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/types.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/weld_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/weld_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/weld_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/weld_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/wheel_joint.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/wheel_joint.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/wheel_joint.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/wheel_joint.c.o"
+},
+{
+  "directory": "/home/c23jll/dev/c/raylib_demo/external/box2d/src",
+  "command": "/usr/bin/cc  -I/home/c23jll/dev/c/raylib_demo/external/box2d/src/../include -I/home/c23jll/dev/c/raylib_demo/external/box2d/src -std=gnu17 -fvisibility=hidden -ffp-contract=off -Wmissing-prototypes -Wall -Wextra -pedantic -Wno-unused-value -o CMakeFiles/box2d.dir/world_snapshot.c.o -c /home/c23jll/dev/c/raylib_demo/external/box2d/src/world_snapshot.c",
+  "file": "/home/c23jll/dev/c/raylib_demo/external/box2d/src/world_snapshot.c",
+  "output": "external/box2d/src/CMakeFiles/box2d.dir/world_snapshot.c.o"
+}
+]
